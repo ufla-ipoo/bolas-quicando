@@ -1,12 +1,8 @@
-----------------------------------------------------------------------------
-Este é o arquivo README do projeto. Você deve descrever aqui o seu projeto.
-Informe ao usuário (alguém que não sabe nada sobre este projeto!) tudo que
-ele/ela precisa saber. Os comentários devem incluir, pelo menos:
-------------------------------------------------------------------------
-
-TÍTULO DO PROJETO:
-OBJETIVO DO PROJETO:
-VERSÃO ou DATA:
-COMO INICIAR O PROJETO:
-AUTORES:
+TÍTULO DO PROJETO: bolas-quicando
+OBJETIVO DO PROJETO: apresentar os conceitos de atributos estáticos e constantes
+VERSÃO ou DATA: 2023.10.20
+COMO INICIAR O PROJETO: Clique em executar
+AUTORES: Julio César Alves
+Inspirado em exemplo do livro de Barnes e Kolling
 INSTRUÇÕES PARA O USUÁRIO:
+Exercícios são pedidos durante a aula.
