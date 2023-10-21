@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Bola
+comment0.text=\r\n\ Representa\ uma\ bola\ que\ cai\ acelerando\ com\ o\ tempo\ devido\ ao\ efeito\ da\ gravidade\r\n\ e\ quica\ no\ ch\u00E3o\ voltando\ para\ o\ alto\ com\ a\ velocidade\ amortecida.\r\n\ \r\n\ Esse\ c\u00F3digo\ \u00E9\ inspirado\ no\ exemplo\ bouncing-balls\ do\ livro\ de\ Barnes\ e\ Kolling.\r\n\ \r\n\ @author\ Julio\ C\u00E9sar\ Alves\r\n\ @version\ 2023.10.20\r\n
+comment1.params=diametro\ posY
+comment1.target=Bola(int,\ int)
+comment1.text=\r\n\ Cria\ uma\ bola\ com\ o\ di\u00E2metro\ e\ a\ posi\u00E7\u00E3o\ Y\ passados\r\n\ \r\n\ Obs.\:\ a\ bola\ precisa\ ser\ posicionada\ com\ o\ m\u00B4\u00E9todo\ setLocation\ na\r\n\ mesma\ posi\u00E7\u00E3o\ Y\ informada\ aqui.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Bola\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3

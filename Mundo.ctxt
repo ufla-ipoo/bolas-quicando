@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Mundo
+comment0.text=\r\n\ Mundo\ com\ um\ ch\u00E3o\ e\ algumas\ bolas\ que\ caem\ com\ efeito\ da\ gravidade.\r\n\ \r\n\ @author\ Julio\ C\u00E9sar\ Alves\r\n\ @version\ 2023.10.20\r\n
+comment1.params=
+comment1.target=Mundo()
+comment1.text=\r\n\ Constr\u00F3i\ o\ mundo\ e\ chama\ a\ prepara\u00E7\u00E3o\ do\ cen\u00E1rio\r\n\ \r\n
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=\r\n\ Prepara\ o\ mundo\ para\ o\ in\u00EDcio\ do\ programa.\r\n\ Ou\ seja\:\ criar\ os\ objetos\ iniciais\ e\ os\ adiciona\ ao\ mundo.\r\n
+numComments=3
