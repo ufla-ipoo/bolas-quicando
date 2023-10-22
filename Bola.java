@@ -19,7 +19,7 @@ public class Bola extends Actor
     private double posY;
     // amortecimento, quando a bola quica a velocidade que ela
     // volta é amenizada pelo amortecimento
-    private int amortecimento = 2;
+    private final int amortecimento = 2;
     
     /*
      * Cria uma bola com o diâmetro e a posição Y passados
@@ -32,8 +32,6 @@ public class Bola extends Actor
         this.posY = posY;
         // muda o tamanho da imagem de acordo com o diâmetro passado
         getImage().scale(diametro, diametro);
-        // define que a direção da bola é para baixo (270 graus)
-        setRotation(270);    
     }
     
     /**
